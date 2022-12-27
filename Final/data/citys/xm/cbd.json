@@ -1,0 +1,682 @@
+[
+    {
+        "city": "xm",
+        "region": "翔安",
+        "name": "大嶝岛",
+        "url": "https://xm.lianjia.com/zufang/dadengdao/",
+        "total": 2,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "同安",
+        "name": "环东海域",
+        "url": "https://xm.lianjia.com/zufang/huandonghaiyu/",
+        "total": 943,
+        "pages": 32
+    },
+    {
+        "city": "xm",
+        "region": "同安",
+        "name": "集美其它",
+        "url": "https://xm.lianjia.com/zufang/jimeiqita/",
+        "total": 817,
+        "pages": 28
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "邮轮城",
+        "url": "https://xm.lianjia.com/zufang/youluncheng/",
+        "total": 124,
+        "pages": 5
+    },
+    {
+        "city": "xm",
+        "region": "同安",
+        "name": "厦门北站商业区",
+        "url": "https://xm.lianjia.com/zufang/xiamenbeizhanshangyequ/",
+        "total": 77,
+        "pages": 3
+    },
+    {
+        "city": "xm",
+        "region": "同安",
+        "name": "集美新城",
+        "url": "https://xm.lianjia.com/zufang/jimeixincheng/",
+        "total": 1139,
+        "pages": 38
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "槟榔",
+        "url": "https://xm.lianjia.com/zufang/binglang/",
+        "total": 207,
+        "pages": 7
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "中山路",
+        "url": "https://xm.lianjia.com/zufang/zhongshanlu/",
+        "total": 186,
+        "pages": 7
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "岳阳社区",
+        "url": "https://xm.lianjia.com/zufang/yueyangshequ/",
+        "total": 57,
+        "pages": 2
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "仙岳社区",
+        "url": "https://xm.lianjia.com/zufang/xianyueshequ/",
+        "total": 36,
+        "pages": 2
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "外国语学校",
+        "url": "https://xm.lianjia.com/zufang/waiguoyuxuexiao/",
+        "total": 21,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "文灶",
+        "url": "https://xm.lianjia.com/zufang/wenzao/",
+        "total": 169,
+        "pages": 6
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "文园路",
+        "url": "https://xm.lianjia.com/zufang/wenyuanlu/",
+        "total": 310,
+        "pages": 11
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "五缘湾",
+        "url": "https://xm.lianjia.com/zufang/wuyuanwan/",
+        "total": 883,
+        "pages": 30
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "祥店",
+        "url": "https://xm.lianjia.com/zufang/xiangdian/",
+        "total": 308,
+        "pages": 11
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "SM",
+        "url": "https://xm.lianjia.com/zufang/sm/",
+        "total": 331,
+        "pages": 12
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "厦大",
+        "url": "https://xm.lianjia.com/zufang/shada/",
+        "total": 270,
+        "pages": 9
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "体育中心",
+        "url": "https://xm.lianjia.com/zufang/tiyuzhongxin1/",
+        "total": 123,
+        "pages": 5
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "万达广场",
+        "url": "https://xm.lianjia.com/zufang/wandaguangchang/",
+        "total": 150,
+        "pages": 5
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "机场区",
+        "url": "https://xm.lianjia.com/zufang/jichangqu/",
+        "total": 139,
+        "pages": 5
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "金山",
+        "url": "https://xm.lianjia.com/zufang/jinshan3/",
+        "total": 117,
+        "pages": 4
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "殿前",
+        "url": "https://xm.lianjia.com/zufang/dianqian/",
+        "total": 36,
+        "pages": 2
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "保税区",
+        "url": "https://xm.lianjia.com/zufang/baoshuiqu/",
+        "total": 40,
+        "pages": 2
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "湖里大道",
+        "url": "https://xm.lianjia.com/zufang/hulidadao/",
+        "total": 114,
+        "pages": 4
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "高新技术园",
+        "url": "https://xm.lianjia.com/zufang/gaoxinjishuyuan/",
+        "total": 201,
+        "pages": 7
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "枋湖",
+        "url": "https://xm.lianjia.com/zufang/fanghu/",
+        "total": 644,
+        "pages": 22
+    },
+    {
+        "city": "xm",
+        "region": "湖里",
+        "name": "大唐世家",
+        "url": "https://xm.lianjia.com/zufang/datangshijia/",
+        "total": 244,
+        "pages": 9
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "海沧农场",
+        "url": "https://xm.lianjia.com/zufang/haicangnongchang/",
+        "total": 15,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "角嵩路",
+        "url": "https://xm.lianjia.com/zufang/jiaosonglu/",
+        "total": 23,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "未来海岸北师大",
+        "url": "https://xm.lianjia.com/zufang/weilaihaianbeishida/",
+        "total": 131,
+        "pages": 5
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "马銮湾中心片区",
+        "url": "https://xm.lianjia.com/zufang/maluanwanzhongxinpianqu/",
+        "total": 378,
+        "pages": 13
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "马銮湾东",
+        "url": "https://xm.lianjia.com/zufang/maluanwandong/",
+        "total": 354,
+        "pages": 12
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "海沧区政府",
+        "url": "https://xm.lianjia.com/zufang/haicangquzhengfu/",
+        "total": 132,
+        "pages": 5
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "海沧生活区",
+        "url": "https://xm.lianjia.com/zufang/haicangshenghuoqu/",
+        "total": 280,
+        "pages": 10
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "海沧外国语片区",
+        "url": "https://xm.lianjia.com/zufang/haicangwaiguoyupianqu/",
+        "total": 96,
+        "pages": 4
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "海沧体育中心",
+        "url": "https://xm.lianjia.com/zufang/haicangtiyuzhongxin/",
+        "total": 289,
+        "pages": 10
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "东孚",
+        "url": "https://xm.lianjia.com/zufang/dongfu/",
+        "total": 26,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "杏东",
+        "url": "https://xm.lianjia.com/zufang/xingdong/",
+        "total": 82,
+        "pages": 3
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "杏南",
+        "url": "https://xm.lianjia.com/zufang/xingnan/",
+        "total": 42,
+        "pages": 2
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "杏西",
+        "url": "https://xm.lianjia.com/zufang/xingxi/",
+        "total": 17,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "杏锦路",
+        "url": "https://xm.lianjia.com/zufang/xingjinlu/",
+        "total": 186,
+        "pages": 7
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "杏北",
+        "url": "https://xm.lianjia.com/zufang/xingbei/",
+        "total": 581,
+        "pages": 20
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "杏林桥头",
+        "url": "https://xm.lianjia.com/zufang/xinglinqiaotou/",
+        "total": 349,
+        "pages": 12
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "集美文教区",
+        "url": "https://xm.lianjia.com/zufang/jimeiwenjiaoqu/",
+        "total": 390,
+        "pages": 13
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "锦园",
+        "url": "https://xm.lianjia.com/zufang/jinyuan/",
+        "total": 113,
+        "pages": 4
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "市政府",
+        "url": "https://xm.lianjia.com/zufang/shizhengfu2/",
+        "total": 355,
+        "pages": 12
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "松柏",
+        "url": "https://xm.lianjia.com/zufang/songbai/",
+        "total": 507,
+        "pages": 17
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "思北",
+        "url": "https://xm.lianjia.com/zufang/sibei/",
+        "total": 365,
+        "pages": 13
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "思明南路",
+        "url": "https://xm.lianjia.com/zufang/simingnanlu/",
+        "total": 103,
+        "pages": 4
+    },
+    {
+        "city": "xm",
+        "region": "海沧",
+        "name": "滨海社区",
+        "url": "https://xm.lianjia.com/zufang/binhaishequ/",
+        "total": 366,
+        "pages": 13
+    },
+    {
+        "city": "xm",
+        "region": "集美",
+        "name": "灌口",
+        "url": "https://xm.lianjia.com/zufang/guankou/",
+        "total": 247,
+        "pages": 9
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "实验小学及周边",
+        "url": "https://xm.lianjia.com/zufang/shiyanxiaoxuejizhoubian/",
+        "total": 159,
+        "pages": 6
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "瑞景",
+        "url": "https://xm.lianjia.com/zufang/ruijing/",
+        "total": 626,
+        "pages": 21
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "莲花一村",
+        "url": "https://xm.lianjia.com/zufang/lianhuayicun/",
+        "total": 230,
+        "pages": 8
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "前埔",
+        "url": "https://xm.lianjia.com/zufang/qianpu/",
+        "total": 296,
+        "pages": 10
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "七星路",
+        "url": "https://xm.lianjia.com/zufang/qixinglu/",
+        "total": 120,
+        "pages": 4
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "软件园",
+        "url": "https://xm.lianjia.com/zufang/ruanjianyuan1/",
+        "total": 46,
+        "pages": 2
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "莲坂",
+        "url": "https://xm.lianjia.com/zufang/lianban/",
+        "total": 562,
+        "pages": 19
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "莲花",
+        "url": "https://xm.lianjia.com/zufang/lianhua4/",
+        "total": 151,
+        "pages": 6
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "莲前",
+        "url": "https://xm.lianjia.com/zufang/lianqian/",
+        "total": 163,
+        "pages": 6
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "南山路",
+        "url": "https://xm.lianjia.com/zufang/nanshanlu/",
+        "total": 193,
+        "pages": 7
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "金鸡亭",
+        "url": "https://xm.lianjia.com/zufang/jinjiting/",
+        "total": 167,
+        "pages": 6
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "黄厝",
+        "url": "https://xm.lianjia.com/zufang/huangcuo/",
+        "total": 29,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "江头",
+        "url": "https://xm.lianjia.com/zufang/jiangtou/",
+        "total": 578,
+        "pages": 20
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "火车站",
+        "url": "https://xm.lianjia.com/zufang/huochezhan4/",
+        "total": 1107,
+        "pages": 37
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "会展中心",
+        "url": "https://xm.lianjia.com/zufang/huizhanzhongxin/",
+        "total": 285,
+        "pages": 10
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "湖边水库",
+        "url": "https://xm.lianjia.com/zufang/hubianshuiku/",
+        "total": 370,
+        "pages": 13
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "金尚",
+        "url": "https://xm.lianjia.com/zufang/jinshang/",
+        "total": 356,
+        "pages": 12
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "禾祥西路",
+        "url": "https://xm.lianjia.com/zufang/hexiangxilu/",
+        "total": 247,
+        "pages": 9
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "鼓浪屿",
+        "url": "https://xm.lianjia.com/zufang/gulangyu/",
+        "total": 15,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "禾祥东路",
+        "url": "https://xm.lianjia.com/zufang/hexiangdonglu/",
+        "total": 103,
+        "pages": 4
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "公园小学及周边",
+        "url": "https://xm.lianjia.com/zufang/gongyuanxiaoxuejizhoubian/",
+        "total": 136,
+        "pages": 5
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "斗西路",
+        "url": "https://xm.lianjia.com/zufang/douxilu/",
+        "total": 32,
+        "pages": 2
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "曾厝垵",
+        "url": "https://xm.lianjia.com/zufang/cengcuoan/",
+        "total": 86,
+        "pages": 3
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "观音山",
+        "url": "https://xm.lianjia.com/zufang/guanyinshan/",
+        "total": 169,
+        "pages": 6
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "东渡",
+        "url": "https://xm.lianjia.com/zufang/dongdu/",
+        "total": 224,
+        "pages": 8
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "富山",
+        "url": "https://xm.lianjia.com/zufang/fushan3/",
+        "total": 382,
+        "pages": 13
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "白鹭洲",
+        "url": "https://xm.lianjia.com/zufang/bailuzhou/",
+        "total": 38,
+        "pages": 2
+    },
+    {
+        "city": "xm",
+        "region": "思明",
+        "name": "滨东",
+        "url": "https://xm.lianjia.com/zufang/bindong/",
+        "total": 5,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "翔安",
+        "name": "翔安其他",
+        "url": "https://xm.lianjia.com/zufang/xianganqita/",
+        "total": 3,
+        "pages": 1
+    },
+    {
+        "city": "xm",
+        "region": "翔安",
+        "name": "同安其它",
+        "url": "https://xm.lianjia.com/zufang/tonganqita/",
+        "total": 247,
+        "pages": 9
+    },
+    {
+        "city": "xm",
+        "region": "翔安",
+        "name": "同安区",
+        "url": "https://xm.lianjia.com/zufang/tonganqu/",
+        "total": 172,
+        "pages": 6
+    },
+    {
+        "city": "xm",
+        "region": "翔安",
+        "name": "翔安新城",
+        "url": "https://xm.lianjia.com/zufang/xianganxincheng/",
+        "total": 844,
+        "pages": 29
+    },
+    {
+        "city": "xm",
+        "region": "翔安",
+        "name": "马巷",
+        "url": "https://xm.lianjia.com/zufang/maxiang/",
+        "total": 139,
+        "pages": 5
+    },
+    {
+        "city": "xm",
+        "region": "翔安",
+        "name": "新店",
+        "url": "https://xm.lianjia.com/zufang/xindian/",
+        "total": 441,
+        "pages": 15
+    }
+]

@@ -1,0 +1,1522 @@
+[
+    {
+        "city": "sh",
+        "region": "崇明",
+        "name": "陈家镇",
+        "url": "https://sh.lianjia.com/zufang/chenjiazhen/",
+        "total": 12,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "崇明",
+        "name": "崇明新城",
+        "url": "https://sh.lianjia.com/zufang/chongmingxincheng/",
+        "total": 8,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "崇明",
+        "name": "长兴岛",
+        "url": "https://sh.lianjia.com/zufang/changxingdao21211/",
+        "total": 5,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "崇明",
+        "name": "崇明其它",
+        "url": "https://sh.lianjia.com/zufang/chongmingqita/",
+        "total": 1,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "奉贤",
+        "name": "庄行",
+        "url": "https://sh.lianjia.com/zufang/zhuanghang/",
+        "total": 11,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "颛桥",
+        "url": "https://sh.lianjia.com/zufang/zhuanqiao/",
+        "total": 203,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "长桥",
+        "url": "https://sh.lianjia.com/zufang/changqiao/",
+        "total": 51,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "莘庄南广场",
+        "url": "https://sh.lianjia.com/zufang/xinzhuangnanguangchang/",
+        "total": 287,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "莘庄北广场",
+        "url": "https://sh.lianjia.com/zufang/xinzhuangbeiguangchang/",
+        "total": 167,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "吴泾",
+        "url": "https://sh.lianjia.com/zufang/wujing/",
+        "total": 206,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "七宝",
+        "url": "https://sh.lianjia.com/zufang/qibao/",
+        "total": 314,
+        "pages": 11
+    },
+    {
+        "city": "sh",
+        "region": "虹口",
+        "name": "四川北路",
+        "url": "https://sh.lianjia.com/zufang/sichuanbeilu/",
+        "total": 52,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "梅陇",
+        "url": "https://sh.lianjia.com/zufang/meilong/",
+        "total": 119,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "浦江",
+        "url": "https://sh.lianjia.com/zufang/pujiang1/",
+        "total": 198,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "镇宁路",
+        "url": "https://sh.lianjia.com/zufang/zhenninglu/",
+        "total": 115,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "中山公园",
+        "url": "https://sh.lianjia.com/zufang/zhongshangongyuan/",
+        "total": 533,
+        "pages": 18
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "新华路",
+        "url": "https://sh.lianjia.com/zufang/xinhualu/",
+        "total": 319,
+        "pages": 11
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "仙霞",
+        "url": "https://sh.lianjia.com/zufang/xianxia/",
+        "total": 156,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "西郊",
+        "url": "https://sh.lianjia.com/zufang/xijiao/",
+        "total": 105,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "祝桥",
+        "url": "https://sh.lianjia.com/zufang/zhuqiao/",
+        "total": 14,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "虹桥",
+        "url": "https://sh.lianjia.com/zufang/hongqiao1/",
+        "total": 124,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "天山",
+        "url": "https://sh.lianjia.com/zufang/tianshan/",
+        "total": 149,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "古北",
+        "url": "https://sh.lianjia.com/zufang/gubei/",
+        "total": 142,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "洋泾",
+        "url": "https://sh.lianjia.com/zufang/yangjing/",
+        "total": 203,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "张江",
+        "url": "https://sh.lianjia.com/zufang/zhangjiang/",
+        "total": 271,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "周浦",
+        "url": "https://sh.lianjia.com/zufang/zhoupu/",
+        "total": 233,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "源深",
+        "url": "https://sh.lianjia.com/zufang/yuanshen/",
+        "total": 100,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "杨东",
+        "url": "https://sh.lianjia.com/zufang/yangdong/",
+        "total": 123,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "万祥镇",
+        "url": "https://sh.lianjia.com/zufang/wanxiangzhen/",
+        "total": 11,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "宣桥",
+        "url": "https://sh.lianjia.com/zufang/xuanqiao/",
+        "total": 6,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "外高桥",
+        "url": "https://sh.lianjia.com/zufang/waigaoqiao/",
+        "total": 49,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "新场",
+        "url": "https://sh.lianjia.com/zufang/xinchang/",
+        "total": 36,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "御桥",
+        "url": "https://sh.lianjia.com/zufang/yuqiao1/",
+        "total": 136,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "杨思前滩",
+        "url": "https://sh.lianjia.com/zufang/yangsiqiantan/",
+        "total": 399,
+        "pages": 14
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "唐镇",
+        "url": "https://sh.lianjia.com/zufang/tangzhen/",
+        "total": 213,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "潍坊",
+        "url": "https://sh.lianjia.com/zufang/weifang/",
+        "total": 259,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "书院镇",
+        "url": "https://sh.lianjia.com/zufang/shuyuanzhen/",
+        "total": 5,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "泥城镇",
+        "url": "https://sh.lianjia.com/zufang/nichengzhen/",
+        "total": 52,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "塘桥",
+        "url": "https://sh.lianjia.com/zufang/tangqiao/",
+        "total": 206,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "世博",
+        "url": "https://sh.lianjia.com/zufang/shibo/",
+        "total": 397,
+        "pages": 14
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "梅园",
+        "url": "https://sh.lianjia.com/zufang/meiyuan1/",
+        "total": 372,
+        "pages": 13
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "南码头",
+        "url": "https://sh.lianjia.com/zufang/nanmatou/",
+        "total": 180,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "三林",
+        "url": "https://sh.lianjia.com/zufang/sanlin/",
+        "total": 385,
+        "pages": 13
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "联洋",
+        "url": "https://sh.lianjia.com/zufang/lianyang/",
+        "total": 127,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "临港新城",
+        "url": "https://sh.lianjia.com/zufang/lingangxincheng/",
+        "total": 97,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "陆家嘴",
+        "url": "https://sh.lianjia.com/zufang/lujiazui/",
+        "total": 313,
+        "pages": 11
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "惠南",
+        "url": "https://sh.lianjia.com/zufang/huinan/",
+        "total": 202,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "航头",
+        "url": "https://sh.lianjia.com/zufang/hangtou/",
+        "total": 52,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "康桥",
+        "url": "https://sh.lianjia.com/zufang/kangqiao/",
+        "total": 151,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "金杨",
+        "url": "https://sh.lianjia.com/zufang/jinyang/",
+        "total": 300,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "金桥",
+        "url": "https://sh.lianjia.com/zufang/jinqiao/",
+        "total": 343,
+        "pages": 12
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "花木",
+        "url": "https://sh.lianjia.com/zufang/huamu/",
+        "total": 101,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "合庆",
+        "url": "https://sh.lianjia.com/zufang/geqing/",
+        "total": 9,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "大团镇",
+        "url": "https://sh.lianjia.com/zufang/datuanzhen/",
+        "total": 1,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "碧云",
+        "url": "https://sh.lianjia.com/zufang/biyun/",
+        "total": 104,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "虹口",
+        "name": "曲阳",
+        "url": "https://sh.lianjia.com/zufang/quyang/",
+        "total": 234,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "川沙",
+        "url": "https://sh.lianjia.com/zufang/chuansha/",
+        "total": 208,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "高行",
+        "url": "https://sh.lianjia.com/zufang/gaohang/",
+        "total": 254,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "虹口",
+        "name": "临平路",
+        "url": "https://sh.lianjia.com/zufang/linpinglu/",
+        "total": 204,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "曹路",
+        "url": "https://sh.lianjia.com/zufang/caolu/",
+        "total": 112,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "虹口",
+        "name": "凉城",
+        "url": "https://sh.lianjia.com/zufang/liangcheng/",
+        "total": 270,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "豫园",
+        "url": "https://sh.lianjia.com/zufang/yuyuan/",
+        "total": 68,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "虹口",
+        "name": "鲁迅公园",
+        "url": "https://sh.lianjia.com/zufang/luxungongyuan/",
+        "total": 118,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "五里桥",
+        "url": "https://sh.lianjia.com/zufang/wuliqiao/",
+        "total": 169,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "人民广场",
+        "url": "https://sh.lianjia.com/zufang/renminguangchang/",
+        "total": 102,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "新天地",
+        "url": "https://sh.lianjia.com/zufang/xintiandi/",
+        "total": 130,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "世博滨江",
+        "url": "https://sh.lianjia.com/zufang/shibobinjiang/",
+        "total": 128,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "虹口",
+        "name": "江湾镇",
+        "url": "https://sh.lianjia.com/zufang/jiangwanzhen/",
+        "total": 186,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "蓬莱公园",
+        "url": "https://sh.lianjia.com/zufang/penglaigongyuan/",
+        "total": 213,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "董家渡",
+        "url": "https://sh.lianjia.com/zufang/dongjiadu/",
+        "total": 35,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "老西门",
+        "url": "https://sh.lianjia.com/zufang/laoximen/",
+        "total": 90,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "南京东路",
+        "url": "https://sh.lianjia.com/zufang/nanjingdonglu/",
+        "total": 69,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "黄浦滨江",
+        "url": "https://sh.lianjia.com/zufang/huangpubinjiang/",
+        "total": 56,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "中远两湾城",
+        "url": "https://sh.lianjia.com/zufang/zhongyuanliangwancheng/",
+        "total": 65,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "淮海中路",
+        "url": "https://sh.lianjia.com/zufang/huaihaizhonglu/",
+        "total": 119,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "真如",
+        "url": "https://sh.lianjia.com/zufang/zhenru/",
+        "total": 223,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "真光",
+        "url": "https://sh.lianjia.com/zufang/zhenguang/",
+        "total": 89,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "万里",
+        "url": "https://sh.lianjia.com/zufang/wanli/",
+        "total": 108,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "武宁",
+        "url": "https://sh.lianjia.com/zufang/wuning/",
+        "total": 282,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "光新",
+        "url": "https://sh.lianjia.com/zufang/guangxin/",
+        "total": 120,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "长征",
+        "url": "https://sh.lianjia.com/zufang/changzheng/",
+        "total": 79,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "桃浦",
+        "url": "https://sh.lianjia.com/zufang/taopu/",
+        "total": 155,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "甘泉宜川",
+        "url": "https://sh.lianjia.com/zufang/ganquanyichuan/",
+        "total": 209,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "曹杨",
+        "url": "https://sh.lianjia.com/zufang/caoyang/",
+        "total": 120,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "长风",
+        "url": "https://sh.lianjia.com/zufang/changfeng1/",
+        "total": 161,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "通河",
+        "url": "https://sh.lianjia.com/zufang/tonghe/",
+        "total": 81,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "张庙",
+        "url": "https://sh.lianjia.com/zufang/zhangmiao/",
+        "total": 192,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "月浦",
+        "url": "https://sh.lianjia.com/zufang/yuepu/",
+        "total": 61,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "杨行",
+        "url": "https://sh.lianjia.com/zufang/yanghang/",
+        "total": 256,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "上大",
+        "url": "https://sh.lianjia.com/zufang/shangda/",
+        "total": 277,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "淞南",
+        "url": "https://sh.lianjia.com/zufang/songnan/",
+        "total": 151,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "淞宝",
+        "url": "https://sh.lianjia.com/zufang/songbao/",
+        "total": 134,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "罗泾",
+        "url": "https://sh.lianjia.com/zufang/luojing/",
+        "total": 15,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "罗店",
+        "url": "https://sh.lianjia.com/zufang/luodian/",
+        "total": 168,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "高境",
+        "url": "https://sh.lianjia.com/zufang/gaojing/",
+        "total": 202,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "大场镇",
+        "url": "https://sh.lianjia.com/zufang/dachangzhen/",
+        "total": 82,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "共富",
+        "url": "https://sh.lianjia.com/zufang/gongfu/",
+        "total": 69,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "共康",
+        "url": "https://sh.lianjia.com/zufang/gongkang/",
+        "total": 148,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "长宁",
+        "name": "北新泾",
+        "url": "https://sh.lianjia.com/zufang/beixinjing/",
+        "total": 226,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "顾村",
+        "url": "https://sh.lianjia.com/zufang/gucun/",
+        "total": 506,
+        "pages": 17
+    },
+    {
+        "city": "sh",
+        "region": "浦东",
+        "name": "北蔡",
+        "url": "https://sh.lianjia.com/zufang/beicai/",
+        "total": 394,
+        "pages": 14
+    },
+    {
+        "city": "sh",
+        "region": "杨浦",
+        "name": "控江路",
+        "url": "https://sh.lianjia.com/zufang/kongjianglu/",
+        "total": 131,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "杨浦",
+        "name": "黄兴公园",
+        "url": "https://sh.lianjia.com/zufang/huangxinggongyuan/",
+        "total": 299,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "杨浦",
+        "name": "五角场",
+        "url": "https://sh.lianjia.com/zufang/wujiaochang/",
+        "total": 222,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "杨浦",
+        "name": "新江湾城",
+        "url": "https://sh.lianjia.com/zufang/xinjiangwancheng/",
+        "total": 114,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "杨浦",
+        "name": "中原",
+        "url": "https://sh.lianjia.com/zufang/zhongyuan1/",
+        "total": 285,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "杨浦",
+        "name": "周家嘴路",
+        "url": "https://sh.lianjia.com/zufang/zhoujiazuilu/",
+        "total": 248,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "虹口",
+        "name": "北外滩",
+        "url": "https://sh.lianjia.com/zufang/beiwaitan/",
+        "total": 129,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "杨浦",
+        "name": "东外滩",
+        "url": "https://sh.lianjia.com/zufang/dongwaitan/",
+        "total": 93,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "植物园",
+        "url": "https://sh.lianjia.com/zufang/zhiwuyuan/",
+        "total": 53,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "普陀",
+        "name": "长寿路",
+        "url": "https://sh.lianjia.com/zufang/changshoulu/",
+        "total": 290,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "黄浦",
+        "name": "打浦桥",
+        "url": "https://sh.lianjia.com/zufang/dapuqiao/",
+        "total": 156,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "徐家汇",
+        "url": "https://sh.lianjia.com/zufang/xujiahui/",
+        "total": 706,
+        "pages": 24
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "徐汇滨江",
+        "url": "https://sh.lianjia.com/zufang/xuhuibinjiang/",
+        "total": 96,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "杨浦",
+        "name": "鞍山",
+        "url": "https://sh.lianjia.com/zufang/anshan/",
+        "total": 345,
+        "pages": 12
+    },
+    {
+        "city": "sh",
+        "region": "宝山",
+        "name": "大华",
+        "url": "https://sh.lianjia.com/zufang/dahua/",
+        "total": 250,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "斜土路",
+        "url": "https://sh.lianjia.com/zufang/xietulu/",
+        "total": 147,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "万体馆",
+        "url": "https://sh.lianjia.com/zufang/wantiguan/",
+        "total": 106,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "建国西路",
+        "url": "https://sh.lianjia.com/zufang/jianguoxilu/",
+        "total": 98,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "上海南站",
+        "url": "https://sh.lianjia.com/zufang/shanghainanzhan/",
+        "total": 64,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "华东理工",
+        "url": "https://sh.lianjia.com/zufang/huadongligong/",
+        "total": 104,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "田林",
+        "url": "https://sh.lianjia.com/zufang/tianlin/",
+        "total": 152,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "龙华",
+        "url": "https://sh.lianjia.com/zufang/longhua/",
+        "total": 214,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "衡山路",
+        "url": "https://sh.lianjia.com/zufang/hengshanlu/",
+        "total": 216,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "华泾",
+        "url": "https://sh.lianjia.com/zufang/huajing/",
+        "total": 130,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "康健",
+        "url": "https://sh.lianjia.com/zufang/kangjian/",
+        "total": 203,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "马桥",
+        "url": "https://sh.lianjia.com/zufang/maqiao/",
+        "total": 20,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "徐汇",
+        "name": "漕河泾",
+        "url": "https://sh.lianjia.com/zufang/caohejing/",
+        "total": 25,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "闵浦",
+        "url": "https://sh.lianjia.com/zufang/minpu/",
+        "total": 197,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "老闵行",
+        "url": "https://sh.lianjia.com/zufang/laominhang/",
+        "total": 289,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "龙柏",
+        "url": "https://sh.lianjia.com/zufang/longbai/",
+        "total": 102,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "静安新城",
+        "url": "https://sh.lianjia.com/zufang/jinganxincheng/",
+        "total": 81,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "华漕",
+        "url": "https://sh.lianjia.com/zufang/huacao/",
+        "total": 524,
+        "pages": 18
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "航华",
+        "url": "https://sh.lianjia.com/zufang/hanghua/",
+        "total": 77,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "金虹桥",
+        "url": "https://sh.lianjia.com/zufang/jinhongqiao/",
+        "total": 226,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "金汇",
+        "url": "https://sh.lianjia.com/zufang/jinhui/",
+        "total": 81,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "春申",
+        "url": "https://sh.lianjia.com/zufang/chunshen/",
+        "total": 165,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "闵行",
+        "name": "古美",
+        "url": "https://sh.lianjia.com/zufang/gumei/",
+        "total": 253,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "徐行",
+        "url": "https://sh.lianjia.com/zufang/xuxing/",
+        "total": 27,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "新成路",
+        "url": "https://sh.lianjia.com/zufang/xinchenglu1/",
+        "total": 15,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "马陆",
+        "url": "https://sh.lianjia.com/zufang/malu/",
+        "total": 7,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "外冈",
+        "url": "https://sh.lianjia.com/zufang/waigang/",
+        "total": 7,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "太仓",
+        "url": "https://sh.lianjia.com/zufang/taicang212/",
+        "total": 1,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "南翔",
+        "url": "https://sh.lianjia.com/zufang/nanxiang/",
+        "total": 205,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "江桥",
+        "url": "https://sh.lianjia.com/zufang/jiangqiao/",
+        "total": 281,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "菊园新区",
+        "url": "https://sh.lianjia.com/zufang/juyuanxinqu/",
+        "total": 121,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "嘉定新城",
+        "url": "https://sh.lianjia.com/zufang/jiadingxincheng/",
+        "total": 251,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "嘉定老城",
+        "url": "https://sh.lianjia.com/zufang/jiadinglaocheng/",
+        "total": 69,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "闸北公园",
+        "url": "https://sh.lianjia.com/zufang/zhabeigongyuan/",
+        "total": 101,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "丰庄",
+        "url": "https://sh.lianjia.com/zufang/fengzhuang/",
+        "total": 125,
+        "pages": 5
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "西藏北路",
+        "url": "https://sh.lianjia.com/zufang/xizangbeilu/",
+        "total": 278,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "阳城",
+        "url": "https://sh.lianjia.com/zufang/yangcheng/",
+        "total": 110,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "永和",
+        "url": "https://sh.lianjia.com/zufang/yonghe/",
+        "total": 50,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "江宁路",
+        "url": "https://sh.lianjia.com/zufang/jiangninglu/",
+        "total": 220,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "彭浦",
+        "url": "https://sh.lianjia.com/zufang/pengpu/",
+        "total": 341,
+        "pages": 12
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "南京西路",
+        "url": "https://sh.lianjia.com/zufang/nanjingxilu/",
+        "total": 432,
+        "pages": 15
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "静安寺",
+        "url": "https://sh.lianjia.com/zufang/jingansi/",
+        "total": 190,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "曹家渡",
+        "url": "https://sh.lianjia.com/zufang/caojiadu/",
+        "total": 295,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "叶榭",
+        "url": "https://sh.lianjia.com/zufang/yexie/",
+        "total": 1,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "大宁",
+        "url": "https://sh.lianjia.com/zufang/daning/",
+        "total": 393,
+        "pages": 14
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "小昆山",
+        "url": "https://sh.lianjia.com/zufang/xiaokunshan/",
+        "total": 7,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "新桥",
+        "url": "https://sh.lianjia.com/zufang/xinqiao/",
+        "total": 28,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "泗泾",
+        "url": "https://sh.lianjia.com/zufang/sijing/",
+        "total": 473,
+        "pages": 16
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "佘山",
+        "url": "https://sh.lianjia.com/zufang/sheshan/",
+        "total": 119,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "松江大学城",
+        "url": "https://sh.lianjia.com/zufang/songjiangdaxuecheng/",
+        "total": 401,
+        "pages": 14
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "松江新城",
+        "url": "https://sh.lianjia.com/zufang/songjiangxincheng/",
+        "total": 179,
+        "pages": 6
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "莘闵别墅",
+        "url": "https://sh.lianjia.com/zufang/shenminbieshu/",
+        "total": 227,
+        "pages": 8
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "洞泾",
+        "url": "https://sh.lianjia.com/zufang/dongjing2/",
+        "total": 16,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "九亭",
+        "url": "https://sh.lianjia.com/zufang/jiuting/",
+        "total": 351,
+        "pages": 12
+    },
+    {
+        "city": "sh",
+        "region": "金山",
+        "name": "金山",
+        "url": "https://sh.lianjia.com/zufang/jinshan5/",
+        "total": 84,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "嘉定",
+        "name": "安亭",
+        "url": "https://sh.lianjia.com/zufang/anting/",
+        "total": 120,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "松江",
+        "name": "车墩",
+        "url": "https://sh.lianjia.com/zufang/chedun/",
+        "total": 32,
+        "pages": 2
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "朱家角",
+        "url": "https://sh.lianjia.com/zufang/zhujiajiao/",
+        "total": 67,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "静安",
+        "name": "不夜城",
+        "url": "https://sh.lianjia.com/zufang/buyecheng/",
+        "total": 202,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "香花桥",
+        "url": "https://sh.lianjia.com/zufang/xianghuaqiao/",
+        "total": 4,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "赵巷",
+        "url": "https://sh.lianjia.com/zufang/zhaoxiang/",
+        "total": 279,
+        "pages": 10
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "盈浦",
+        "url": "https://sh.lianjia.com/zufang/yingpu/",
+        "total": 267,
+        "pages": 9
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "夏阳",
+        "url": "https://sh.lianjia.com/zufang/xiayang/",
+        "total": 112,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "徐泾",
+        "url": "https://sh.lianjia.com/zufang/xujing/",
+        "total": 542,
+        "pages": 19
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "金泽",
+        "url": "https://sh.lianjia.com/zufang/jinze/",
+        "total": 2,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "重固",
+        "url": "https://sh.lianjia.com/zufang/chonggu/",
+        "total": 5,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "华新",
+        "url": "https://sh.lianjia.com/zufang/huaxin/",
+        "total": 117,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "奉贤",
+        "name": "西渡",
+        "url": "https://sh.lianjia.com/zufang/xidu/",
+        "total": 106,
+        "pages": 4
+    },
+    {
+        "city": "sh",
+        "region": "奉贤",
+        "name": "柘林",
+        "url": "https://sh.lianjia.com/zufang/zhelin/",
+        "total": 7,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "奉贤",
+        "name": "四团",
+        "url": "https://sh.lianjia.com/zufang/situan/",
+        "total": 3,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "奉贤",
+        "name": "青村",
+        "url": "https://sh.lianjia.com/zufang/qingcun/",
+        "total": 3,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "奉贤",
+        "name": "南桥",
+        "url": "https://sh.lianjia.com/zufang/nanqiao/",
+        "total": 196,
+        "pages": 7
+    },
+    {
+        "city": "sh",
+        "region": "奉贤",
+        "name": "海湾",
+        "url": "https://sh.lianjia.com/zufang/haiwan/",
+        "total": 69,
+        "pages": 3
+    },
+    {
+        "city": "sh",
+        "region": "青浦",
+        "name": "白鹤",
+        "url": "https://sh.lianjia.com/zufang/baihe/",
+        "total": 12,
+        "pages": 1
+    },
+    {
+        "city": "sh",
+        "region": "奉贤",
+        "name": "奉贤金汇",
+        "url": "https://sh.lianjia.com/zufang/fengxianjinhui/",
+        "total": 79,
+        "pages": 3
+    }
+]

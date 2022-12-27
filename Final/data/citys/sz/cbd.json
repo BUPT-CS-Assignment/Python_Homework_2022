@@ -1,0 +1,714 @@
+[
+    {
+        "city": "sz",
+        "region": "大鹏新区",
+        "name": "大鹏半岛",
+        "url": "https://sz.lianjia.com/zufang/dapengbandao/",
+        "total": 111,
+        "pages": 4
+    },
+    {
+        "city": "sz",
+        "region": "坪山区",
+        "name": "坪山",
+        "url": "https://sz.lianjia.com/zufang/pingshan/",
+        "total": 559,
+        "pages": 19
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "新秀",
+        "url": "https://sz.lianjia.com/zufang/xinxiu/",
+        "total": 176,
+        "pages": 6
+    },
+    {
+        "city": "sz",
+        "region": "光明区",
+        "name": "公明",
+        "url": "https://sz.lianjia.com/zufang/gongming/",
+        "total": 786,
+        "pages": 27
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "银湖",
+        "url": "https://sz.lianjia.com/zufang/yinhu/",
+        "total": 174,
+        "pages": 6
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "布心",
+        "url": "https://sz.lianjia.com/zufang/buxin/",
+        "total": 414,
+        "pages": 14
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "黄木岗",
+        "url": "https://sz.lianjia.com/zufang/huangmugang/",
+        "total": 10,
+        "pages": 1
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "罗湖口岸",
+        "url": "https://sz.lianjia.com/zufang/luohukouan/",
+        "total": 250,
+        "pages": 9
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "笋岗",
+        "url": "https://sz.lianjia.com/zufang/sungang/",
+        "total": 283,
+        "pages": 10
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "清水河",
+        "url": "https://sz.lianjia.com/zufang/qingshuihe/",
+        "total": 147,
+        "pages": 5
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "万象城",
+        "url": "https://sz.lianjia.com/zufang/wanxiangcheng/",
+        "total": 334,
+        "pages": 12
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "螺岭",
+        "url": "https://sz.lianjia.com/zufang/luoling/",
+        "total": 466,
+        "pages": 16
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "莲塘",
+        "url": "https://sz.lianjia.com/zufang/liantang/",
+        "total": 617,
+        "pages": 21
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "平湖",
+        "url": "https://sz.lianjia.com/zufang/pinghu/",
+        "total": 270,
+        "pages": 9
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "龙岗宝荷",
+        "url": "https://sz.lianjia.com/zufang/longgangbaohe/",
+        "total": 146,
+        "pages": 5
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "龙岗双龙",
+        "url": "https://sz.lianjia.com/zufang/longgangshuanglong/",
+        "total": 544,
+        "pages": 19
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "坪地",
+        "url": "https://sz.lianjia.com/zufang/pingdi/",
+        "total": 291,
+        "pages": 10
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "八卦岭",
+        "url": "https://sz.lianjia.com/zufang/bagualing/",
+        "total": 496,
+        "pages": 17
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "白石洲",
+        "url": "https://sz.lianjia.com/zufang/baishizhou/",
+        "total": 223,
+        "pages": 8
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "龙岗中心城",
+        "url": "https://sz.lianjia.com/zufang/longgangzhongxincheng/",
+        "total": 2070,
+        "pages": 69
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "横岗",
+        "url": "https://sz.lianjia.com/zufang/henggang/",
+        "total": 625,
+        "pages": 21
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "深圳湾",
+        "url": "https://sz.lianjia.com/zufang/shenzhenwan/",
+        "total": 262,
+        "pages": 9
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "西丽",
+        "url": "https://sz.lianjia.com/zufang/xili1/",
+        "total": 631,
+        "pages": 22
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "南头",
+        "url": "https://sz.lianjia.com/zufang/nantou/",
+        "total": 967,
+        "pages": 33
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "前海",
+        "url": "https://sz.lianjia.com/zufang/qianhai/",
+        "total": 1711,
+        "pages": 58
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "南山中心",
+        "url": "https://sz.lianjia.com/zufang/nanshanzhongxin/",
+        "total": 1833,
+        "pages": 62
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "蛇口",
+        "url": "https://sz.lianjia.com/zufang/shekou/",
+        "total": 1579,
+        "pages": 53
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "园岭",
+        "url": "https://sz.lianjia.com/zufang/yuanling/",
+        "total": 125,
+        "pages": 5
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "竹子林",
+        "url": "https://sz.lianjia.com/zufang/zhuzilin/",
+        "total": 437,
+        "pages": 15
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "红树湾",
+        "url": "https://sz.lianjia.com/zufang/hongshuwan/",
+        "total": 294,
+        "pages": 10
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "华侨城",
+        "url": "https://sz.lianjia.com/zufang/huaqiaocheng1/",
+        "total": 723,
+        "pages": 25
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "后海",
+        "url": "https://sz.lianjia.com/zufang/houhai/",
+        "total": 860,
+        "pages": 29
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "大学城",
+        "url": "https://sz.lianjia.com/zufang/daxuecheng3/",
+        "total": 694,
+        "pages": 24
+    },
+    {
+        "city": "sz",
+        "region": "南山区",
+        "name": "科技园",
+        "url": "https://sz.lianjia.com/zufang/kejiyuan/",
+        "total": 1644,
+        "pages": 55
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "香蜜湖",
+        "url": "https://sz.lianjia.com/zufang/xiangmihu/",
+        "total": 555,
+        "pages": 19
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "香梅北",
+        "url": "https://sz.lianjia.com/zufang/xiangmeibei/",
+        "total": 354,
+        "pages": 12
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "上下沙",
+        "url": "https://sz.lianjia.com/zufang/shangxiasha/",
+        "total": 956,
+        "pages": 32
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "新洲",
+        "url": "https://sz.lianjia.com/zufang/xinzhou1/",
+        "total": 697,
+        "pages": 24
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "上步",
+        "url": "https://sz.lianjia.com/zufang/shangbu/",
+        "total": 283,
+        "pages": 10
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "沙尾",
+        "url": "https://sz.lianjia.com/zufang/shawei/",
+        "total": 326,
+        "pages": 11
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "石厦",
+        "url": "https://sz.lianjia.com/zufang/shixia/",
+        "total": 1032,
+        "pages": 35
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "莲花",
+        "url": "https://sz.lianjia.com/zufang/lianhua/",
+        "total": 497,
+        "pages": 17
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "景田",
+        "url": "https://sz.lianjia.com/zufang/jingtian/",
+        "total": 875,
+        "pages": 30
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "皇岗",
+        "url": "https://sz.lianjia.com/zufang/huanggang/",
+        "total": 1205,
+        "pages": 41
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "梅林",
+        "url": "https://sz.lianjia.com/zufang/meilin/",
+        "total": 1346,
+        "pages": 45
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "华强北",
+        "url": "https://sz.lianjia.com/zufang/huaqiangbei/",
+        "total": 915,
+        "pages": 31
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "福田中心",
+        "url": "https://sz.lianjia.com/zufang/futianzhongxin/",
+        "total": 1205,
+        "pages": 41
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "华强南",
+        "url": "https://sz.lianjia.com/zufang/huaqiangnan/",
+        "total": 366,
+        "pages": 13
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "福田保税区",
+        "url": "https://sz.lianjia.com/zufang/futianbaoshuiqu/",
+        "total": 356,
+        "pages": 12
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "赤尾",
+        "url": "https://sz.lianjia.com/zufang/chiwei/",
+        "total": 196,
+        "pages": 7
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "布吉南岭",
+        "url": "https://sz.lianjia.com/zufang/bujinanling/",
+        "total": 168,
+        "pages": 6
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "大运新城",
+        "url": "https://sz.lianjia.com/zufang/dayunxincheng/",
+        "total": 1029,
+        "pages": 35
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "车公庙",
+        "url": "https://sz.lianjia.com/zufang/chegongmiao/",
+        "total": 466,
+        "pages": 16
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "丹竹头",
+        "url": "https://sz.lianjia.com/zufang/danzhutou/",
+        "total": 180,
+        "pages": 6
+    },
+    {
+        "city": "sz",
+        "region": "光明区",
+        "name": "桃源居",
+        "url": "https://sz.lianjia.com/zufang/taoyuanju/",
+        "total": 104,
+        "pages": 4
+    },
+    {
+        "city": "sz",
+        "region": "福田区",
+        "name": "百花",
+        "url": "https://sz.lianjia.com/zufang/baihua/",
+        "total": 216,
+        "pages": 8
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "布吉水径",
+        "url": "https://sz.lianjia.com/zufang/bujishuijing/",
+        "total": 236,
+        "pages": 8
+    },
+    {
+        "city": "sz",
+        "region": "龙华区",
+        "name": "梅林关",
+        "url": "https://sz.lianjia.com/zufang/meilinguan/",
+        "total": 1212,
+        "pages": 41
+    },
+    {
+        "city": "sz",
+        "region": "龙华区",
+        "name": "上塘",
+        "url": "https://sz.lianjia.com/zufang/shangtang/",
+        "total": 237,
+        "pages": 8
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "布吉街",
+        "url": "https://sz.lianjia.com/zufang/bujijie/",
+        "total": 463,
+        "pages": 16
+    },
+    {
+        "city": "sz",
+        "region": "龙华区",
+        "name": "民治",
+        "url": "https://sz.lianjia.com/zufang/minzhi/",
+        "total": 1594,
+        "pages": 54
+    },
+    {
+        "city": "sz",
+        "region": "龙华区",
+        "name": "龙华新区",
+        "url": "https://sz.lianjia.com/zufang/longhuaxinqu/",
+        "total": 266,
+        "pages": 9
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "布吉大芬",
+        "url": "https://sz.lianjia.com/zufang/bujidafen/",
+        "total": 473,
+        "pages": 16
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "布吉石芽岭",
+        "url": "https://sz.lianjia.com/zufang/bujishiyaling/",
+        "total": 120,
+        "pages": 4
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "曦城",
+        "url": "https://sz.lianjia.com/zufang/xicheng1/",
+        "total": 84,
+        "pages": 3
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "西乡",
+        "url": "https://sz.lianjia.com/zufang/xixiang/",
+        "total": 1760,
+        "pages": 59
+    },
+    {
+        "city": "sz",
+        "region": "龙华区",
+        "name": "龙华中心",
+        "url": "https://sz.lianjia.com/zufang/longhuazhongxin/",
+        "total": 6026,
+        "pages": 100
+    },
+    {
+        "city": "sz",
+        "region": "龙岗区",
+        "name": "布吉关",
+        "url": "https://sz.lianjia.com/zufang/bujiguan/",
+        "total": 540,
+        "pages": 18
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "新安",
+        "url": "https://sz.lianjia.com/zufang/xinan/",
+        "total": 843,
+        "pages": 29
+    },
+    {
+        "city": "sz",
+        "region": "龙华区",
+        "name": "坂田",
+        "url": "https://sz.lianjia.com/zufang/bantian/",
+        "total": 2229,
+        "pages": 75
+    },
+    {
+        "city": "sz",
+        "region": "龙华区",
+        "name": "观澜",
+        "url": "https://sz.lianjia.com/zufang/guanlan/",
+        "total": 335,
+        "pages": 12
+    },
+    {
+        "city": "sz",
+        "region": "龙华区",
+        "name": "红山",
+        "url": "https://sz.lianjia.com/zufang/hongshan6/",
+        "total": 1076,
+        "pages": 36
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "石岩",
+        "url": "https://sz.lianjia.com/zufang/shiyan/",
+        "total": 186,
+        "pages": 7
+    },
+    {
+        "city": "sz",
+        "region": "盐田区",
+        "name": "盐田港",
+        "url": "https://sz.lianjia.com/zufang/yantiangang/",
+        "total": 245,
+        "pages": 9
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "松岗",
+        "url": "https://sz.lianjia.com/zufang/songgang/",
+        "total": 176,
+        "pages": 6
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "碧海",
+        "url": "https://sz.lianjia.com/zufang/bihai1/",
+        "total": 408,
+        "pages": 14
+    },
+    {
+        "city": "sz",
+        "region": "盐田区",
+        "name": "沙头角",
+        "url": "https://sz.lianjia.com/zufang/shatoujiao/",
+        "total": 444,
+        "pages": 15
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "福永",
+        "url": "https://sz.lianjia.com/zufang/fuyong/",
+        "total": 958,
+        "pages": 32
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "沙井",
+        "url": "https://sz.lianjia.com/zufang/shajing/",
+        "total": 528,
+        "pages": 18
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "翻身",
+        "url": "https://sz.lianjia.com/zufang/fanshen/",
+        "total": 840,
+        "pages": 28
+    },
+    {
+        "city": "sz",
+        "region": "宝安区",
+        "name": "宝安中心",
+        "url": "https://sz.lianjia.com/zufang/baoanzhongxin/",
+        "total": 899,
+        "pages": 30
+    },
+    {
+        "city": "sz",
+        "region": "盐田区",
+        "name": "梅沙",
+        "url": "https://sz.lianjia.com/zufang/meisha/",
+        "total": 151,
+        "pages": 6
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "黄贝岭",
+        "url": "https://sz.lianjia.com/zufang/huangbeiling/",
+        "total": 498,
+        "pages": 17
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "洪湖",
+        "url": "https://sz.lianjia.com/zufang/honghu/",
+        "total": 108,
+        "pages": 4
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "百仕达",
+        "url": "https://sz.lianjia.com/zufang/baishida/",
+        "total": 358,
+        "pages": 12
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "春风路",
+        "url": "https://sz.lianjia.com/zufang/chunfenglu/",
+        "total": 574,
+        "pages": 20
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "地王",
+        "url": "https://sz.lianjia.com/zufang/diwang/",
+        "total": 846,
+        "pages": 29
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "翠竹",
+        "url": "https://sz.lianjia.com/zufang/cuizhu/",
+        "total": 525,
+        "pages": 18
+    },
+    {
+        "city": "sz",
+        "region": "罗湖区",
+        "name": "东门",
+        "url": "https://sz.lianjia.com/zufang/dongmen/",
+        "total": 389,
+        "pages": 13
+    }
+]
