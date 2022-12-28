@@ -1,0 +1,25 @@
+{
+    "北京":{
+        "gdp":183980,
+        "salary":10628,
+        "source":"http://nj.tjj.beijing.gov.cn/nj/main/2022-tjnj/zk/e/zk/indexce.htm"
+    },
+    "上海":{
+        "gdp":173630,
+        "salary":11396
+    },
+    "广州":{
+        "gdp":150366,
+        "salary":12024,
+        "source":"https://lwzb.gzstats.gov.cn:20001/datav/admin/home/www_nj/"
+    },
+    "深圳":{
+        "gdp":173663,
+        "salary":12789,
+        "source":"http://tjnj.gdstats.gov.cn:8080/tjnj/2022/directory/22/html/22-05.htm"
+    },
+    "厦门":{
+        "gdp":134491,
+        "salary":9628
+    }
+}
