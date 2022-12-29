@@ -22,23 +22,25 @@ class RentingSpider(scrapy.Spider):
         self.city = city
         
     def start_requests(self):
-        with open(f'data/citys/{self.city}/cbd.json','r',encoding='utf-8') as f:
-            self.cbd_data = json.load(f)
+        # 读取CBD数据
+        with open(f'data/citys/{self.city}/cbd.json','r',encoding='utf-8') as f:    
+            self.cbd_data = json.load(f)    
             f.close()
         for item in self.cbd_data:
             url = item['url']
             pages = item['pages']
             
             print(f'crawling renting info in cbd {city_name[self.city]}--{item["name"]}, expected total {item["total"]}')
-            if item["total"] > 3000:
+            if item["total"] > 3000:    # 针对大于3000的CBD，进行小区分类的重读取
                 unit_url = str(url).replace('zufang','xiaoqu')
                 params = {'cbd':deepcopy(item['name']), 'url':unit_url}
                 yield Request(url=unit_url, callback=self.unit_requests,cb_kwargs=params)
 
             params = {'cbd':deepcopy(item['name'])}
             for i in range(1,pages + 1):
-                yield Request(url=f'{url}pg{i}/',callback=self.parse,cb_kwargs=params)
+                yield Request(url=f'{url}pg{i}/',callback=self.parse,cb_kwargs=params)  # 遍历读取每页数据
 
+    # 处理小区主页
     def unit_requests(self,response,cbd,url):
         doc = BS(response.text,features="lxml")
         total = doc.find('h2',class_='total fl').find('span').text.strip()
@@ -48,8 +50,9 @@ class RentingSpider(scrapy.Spider):
         page_box = json.loads(page_box)
         pages = page_box['totalPage']
         for i in range(1, pages + 1):
-            yield Request(url=f'{url}pg{i}/', callback=self.parse_uints_page,cb_kwargs={'cbd':cbd})
+            yield Request(url=f'{url}pg{i}/', callback=self.parse_uints_page,cb_kwargs={'cbd':cbd}) # 遍历小区的每一页
     
+    # 处理小区单页
     def parse_uints_page(self,response,cbd):
         doc = BS(response.text,features="lxml")
         for ele in doc.find('ul', class_='listContent').find_all('li'):
@@ -57,9 +60,9 @@ class RentingSpider(scrapy.Spider):
             url = node.attrs.get('href')
             if url == None:
                 continue
-            yield Request(url=url,callback=self.parse_uints,cb_kwargs={'cbd':cbd,'url':url})
+            yield Request(url=url,callback=self.parse_uints,cb_kwargs={'cbd':cbd,'url':url})    # 读取该页每个小区租房页面
         
-
+    # 处理小区租房页面
     def parse_uints(self, response, cbd, url):
         doc = BS(response.text,features="lxml")
         page_box = doc.find('div',class_='content__pg')
@@ -68,9 +71,9 @@ class RentingSpider(scrapy.Spider):
         else:
             total_page = int(page_box.attrs.get('data-totalpage'))
             for i in range (1, total_page + 1):
-                yield Request(url=f'{url}pg{i}/',callback=self.parse,cb_kwargs={'cbd':cbd})
+                yield Request(url=f'{url}pg{i}/',callback=self.parse,cb_kwargs={'cbd':cbd}) # 遍历小区租房页面的每一页
     
-
+    # 处理基本数据项
     def parse(self,response,cbd):
         doc = BS(response.text,features="lxml")
         for ele in doc.find('div',class_='content__list').select('.content__list--item'):
@@ -79,7 +82,7 @@ class RentingSpider(scrapy.Spider):
 
             name = ele.find('p',class_='content__list--item--title').text.strip()
             brand = ele.find('span', class_='brand')
-            brand = brand.text.strip() if brand != None else '链家'
+            brand = brand.text.strip() if brand != None else '链家' # 未指定品牌，默认为链家
             price = ele.find('span', class_='content__list--item-price').text.replace('\n','').strip()  
 
             des = ele.find('p',class_='content__list--item--des').text.replace('\n','').replace('  ','')

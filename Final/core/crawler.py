@@ -13,18 +13,20 @@ import time
 def config_on():
     configure_logging()
 
+# CBD抓取
 def cbd_crawler():
     runner = CrawlerRunner()        
     for city in citys:
-        runner.crawl(CBDSpider, city=city)
+        runner.crawl(CBDSpider, city=city)  # 城市并行化
     runner.join().addBoth(lambda _:reactor.stop())
     reactor.run()
     print('done.')
-    
+
+# 房源抓取
 def renting_crawler():
     runner = CrawlerRunner()        
     for city in citys:
-        runner.crawl(RentingSpider, city=city)
+        runner.crawl(RentingSpider, city=city) # 城市并行化
     runner.join().addBoth(lambda _:reactor.stop())
     reactor.run()
 

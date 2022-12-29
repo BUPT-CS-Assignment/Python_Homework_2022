@@ -11,24 +11,25 @@ import sqlite3
 from core.base import citys,city_name
 from sql.database import database
 
-
+# CBD板块 pipeline
 class CBDPipeline:
-    data = {}
+    data = {}       # 去重信息集合
     def __init__(self):
         for city in citys:
-            self.data[city] = []
+            self.data[city] = []    # 空值初始化
             
     def open_spider(self,spider):
         print(f'crawling cbd info in {city_name[spider.city]}')
     
     def process_item(self,item,spider):
-        node = dict(item)
+        node = dict(item)   # 字典化
         if next((x for x in self.data[node['city']] if x['name'] == node['name']),None) == None:
-            self.data[node['city']].append(node)
+            self.data[node['city']].append(node) # 去重插入
         return item
 
     def close_spider(self,spider):
-        city = spider.city
+        city = spider.city  # 城市标签
+        # json 存储
         with open(f'data/citys/{city}/cbd.json','w',encoding='utf-8') as f:
             json.dump(self.data[city],f,indent=4,ensure_ascii=False)
             f.close()   
@@ -40,17 +41,10 @@ class RentingPipeline:
     def open_spider(self,spider):
         city = spider.city
         print(f'crawling renting info in {city_name[city]}')
-        # with open(f'data/{city}/renting.json','w','utf-8') as f:
-        #     f.write('[')
-        #     f.close()
+
              
     def process_item(self,item,spider):
         item = dict(item)
-        # json_str = json.dumps(node,ensure_ascii=False)
-        # with open(f'data/{node["city"]}/renting.json','a','utf-8') as f:
-        #     f.write(json_str + ',\n')
-        #     f.close()
-        # return item
         sql = f'''
             insert into {spider.city} values(
                 '{item['id']}',
@@ -67,7 +61,3 @@ class RentingPipeline:
     def close_spider(self,spider):
         city = spider.city        
         print(f'crawling finish for {city_name[city]}')
-        # with open(f'data/{city}/renting.json','rb+','utf-8') as f:
-        #     f.seek(-3,2)
-        #     f.write(']'.encode())
-        #     f.close()

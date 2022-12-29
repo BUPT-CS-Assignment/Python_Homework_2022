@@ -12,7 +12,7 @@ class RentingItem(scrapy.Item):
     city = scrapy.Field()       # 城市
     cbd = scrapy.Field()        # 板块
     ad_code = scrapy.Field()    # 广告标识
-    brand = scrapy.Field()      # 信息来源
+    brand = scrapy.Field()      # 房源品牌
     price = scrapy.Field()      # 总价
     addition = scrapy.Field()   # 附加信息(面积、户型、朝向)
     

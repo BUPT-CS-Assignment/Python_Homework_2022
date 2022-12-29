@@ -50,7 +50,7 @@ def get_city_point(city):
         f.close()   
 
 
-def crawl_citys_position():
+def crawl_position_citys():
     for city in citys:
         print(f'crawling cbd positions in city {city_name[city]}')
         get_city_point(city)
