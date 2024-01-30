@@ -10,15 +10,15 @@
 4. 对象和文件
 
 ### 小作业
-1. 爬虫  
+1. **爬虫**  
     爬取链家官网新房和二手房的数据
     详见 `/Scrapy` 文件夹
 
-2. 数据处理可视化1  
+2. **数据处理可视化1**  
     可视化爬取数据，详见 `/DataProcess/Work1` 文件夹
     ![pic](DataProcess/Work1/output/total_price.png)
 
-3. 数据处理可视化2  
+3. **数据处理可视化2**
     可视化爬取数据，详见 `/DataProcess/Work2` 文件夹
     ![pic](DataProcess/Work2/output/scatter.png)
 
@@ -26,7 +26,7 @@
 
 **租房数据分析**
 
-详见 `/Final`文件夹
+详见 `/Final`文件夹  
 具体要求与汇报结果见 `/Final/scripts` 文件夹
 
 1. 抓取链家官网北上广深4个一线城市，再加上一个离你家乡最近的一个非一线城市/或者你最感兴趣的一个城市的数据。
